@@ -207,7 +207,7 @@ const Projects = ({ data }) => {
         <div className="text-center mt-16">
           <p className="text-gray-400 mb-6">Want to see more of my work?</p>
           <a
-            href="https://github.com/yashwardhan-chouhan"
+            href="https://github.com/CanItBeCoded63"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-6 py-3 bg-gray-800 hover:bg-gray-700 text-white font-medium rounded-lg transition-colors"
