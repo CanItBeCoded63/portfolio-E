@@ -7,7 +7,7 @@ export const portfolioData = {
     location: "Chennai, India",
     phone: "+91 9329661346",
     email: "yashsinghchouhan098@gmail.com",
-    linkedin: "https://linkedin.com/in/yashwardhan-chouhan",
+    linkedin: "https://www.linkedin.com/in/yashwardhan-singh-chouhan-713bb0277/",
     github: "https://github.com/yashwardhan-chouhan",
     bio: "BTech Computer Science student at IIIT Sri City with a passion for Machine Learning, AI research, and full-stack development. Currently working on Vision-Language Models for sign language detection.",
     profileImage: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop&crop=face"
