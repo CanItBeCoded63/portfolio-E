@@ -171,7 +171,7 @@ I'm excited to continue pushing the boundaries of what's possible with AI and ma
     phone: "+91 9329661346",
     location: "Chennai, India",
     linkedin: "https://www.linkedin.com/in/yashwardhan-singh-chouhan-713bb0277/",
-    github: "https://github.com/yashwardhan-chouhan",
+    github: "https://github.com/CanItBeCoded63",
     website: "#"
   }
 };
