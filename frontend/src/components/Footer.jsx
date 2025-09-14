@@ -16,7 +16,7 @@ const Footer = ({ data }) => {
     },
     {
       icon: <Github size={20} />,
-      href: "https://github.com/yashwardhan-chouhan",
+      href: "https://github.com/CanItBeCoded63",
       label: 'GitHub'
     },
     {
