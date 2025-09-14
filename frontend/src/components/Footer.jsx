@@ -11,7 +11,7 @@ const Footer = ({ data }) => {
   const socialLinks = [
     {
       icon: <Linkedin size={20} />,
-      href: "https://linkedin.com/in/yashwardhan-chouhan",
+      href: "https://www.linkedin.com/in/yashwardhan-singh-chouhan-713bb0277/",
       label: 'LinkedIn'
     },
     {
